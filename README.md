@@ -1,3 +1,4 @@
 # Hello-world
+Proyecto de prueba de Git utilizando el tutorial propio de GitHub.
 
-Segunda version de prueba, para comprobar el funcionamiento desde GitHub en vez de utilizando el Git Bash original.
+Prueba de las versiones, para comprobar el funcionamiento desde GitHub en vez de utilizando el Git Bash original.
